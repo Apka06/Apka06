@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Apka06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python computer science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in game and desktop application development.
+- 🌱 I’m currently learning android studio and c#.
 - 📫 How to reach me: muhammedsaidarslan@gmail.com
 
 <!---
