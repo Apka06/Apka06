@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apka06
-- 👀 I’m interested in game and desktop application development.
-- 🌱 I’m currently learning android studio and c#.
+- 👀 I’m interested in game development and ML applications.
+- 🌱 I’m currently learning django and pytorch.
 - 📫 How to reach me: muhammedsaidarslan@gmail.com
 
 <!---
