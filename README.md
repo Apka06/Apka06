@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Apka06
 - 👀 I’m interested in game development and ML applications.
 - 🌱 I’m currently learning django and pytorch.
-- 📫 How to reach me: muhammedsaidarslan@gmail.com
 
 <!---
 Apka06/Apka06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
